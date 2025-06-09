@@ -1,0 +1,1 @@
+python main_qa.py --output_filename standard_egoschema_qa_gpt4_graph.json --fewshot_example_path ./data/egoschema/few_shot_6.json  --output_base_path ./qa/output --model gpt-4-1106 --prompt_type qa_standard --temperature 0.0
